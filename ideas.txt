@@ -1,0 +1,6 @@
+1. Timer with 15secs per question - DONE
+1-5.Universal timer that adds time for questions that are answered quickly 
+2. Main Menu with highscore from current session - DONE
+3. Randomize Question Order - DONE
+4. Randomize Answer order - DONE
+5. Make point system
